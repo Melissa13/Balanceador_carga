@@ -57,7 +57,7 @@
 
 <div class="sidebar-navigation hidde-sm hidden-xs">
     <div class="logo">
-        <a href="/">Tarea #10</a>
+        <a href="/">Tarea #11</a>
     </div>
     <div class="menu-letra">
         <ul>

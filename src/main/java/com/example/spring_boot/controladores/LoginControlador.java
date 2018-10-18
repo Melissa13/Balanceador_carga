@@ -54,7 +54,7 @@ public class LoginControlador {
         else
         {
             //userService.deleteUserAccount("jojo");
-            //userService.createNewUserAccount("jojo","Joseph","Joestar", new String("lel"));
+            userService.createNewUserAccount("jojo","Joseph","Joestar", new String("lel"));
             List<usuario> u = userRepositorio.findAll();
             for (usuario uu:u) {
                 System.out.println(uu.getFirstName()+" "+uu.getLastName()+" "+uu.getUsername()+" "+uu.getPassword());
