@@ -9,7 +9,7 @@
                 <div class="image"></div>
                 <div class="info">
                     <div>
-                        <h1>Aguega Clientes</h1>
+                        <h1>Agrega Clientes</h1>
                         <p>Sientete libre de agregar nuevos clientes al website.<br>
                             Ademas de poder gestionar tolo lo relacionado a ellos.</p>
                         <div class="white-button button">
@@ -26,7 +26,7 @@
                 <div class="image"></div>
                 <div class="info">
                     <div>
-                        <h1>Aguega equipos</h1>
+                        <h1>Agrega equipos</h1>
                         <p>Sientete libre de agregar nuevos equipos al website.<br>
                             Ademas de poder gestionar tolo lo relacionado a ellos.</p>
 
@@ -44,8 +44,8 @@
                 <div class="image"></div>
                 <div class="info">
                     <div>
-                        <h1>Suspendisse suscipit<br>nulla sed</h1>
-                        <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices <br>posuere cubilia Curae; Sed at massa turpis.</p>
+                        <h1>Puerto Actual<br>${ puerto }</h1>
+                        <p>Aqui podras ver el puerto actual en el que se esta</p>
 
                         <div class="white-button button">
                             <a href="#featured">Discover More</a>

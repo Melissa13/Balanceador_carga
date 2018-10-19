@@ -24,9 +24,10 @@ public class inicioControlador {
 
 
     @RequestMapping(value = "/", method=RequestMethod.GET)
-    public String index(Model model, HttpSession session){
+    public String index(Model model, HttpSession session, HttpServletRequest request){
 
         model.addAttribute("title","Tarea 10- Inicio");
+        model.addAttribute("puerto", ""+request.getLocalPort());
         return "inicio"; //TODO: uso de los cambios
     }
 
